@@ -45,7 +45,7 @@ jobs:
     # ftp username
     username: qordis-ftp1
     # ftp password
-    password: 1234569aA
+    password: 1234569aA*
     # Server port to connect to (read your web hosts docs)
     port: # optional
     # protocol to deploy with - ftp, ftps, or ftps-legacy
