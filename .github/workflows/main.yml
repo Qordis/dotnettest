@@ -41,11 +41,11 @@ jobs:
   uses: SamKirkland/FTP-Deploy-Action@4.0.0
   with:
     # ftp server
-    server: 
+    server: u1380017.plsk.regruhosting.ru
     # ftp username
-    username: 
+    username: qordis-ftp1
     # ftp password
-    password: 
+    password: 1234569aA
     # Server port to connect to (read your web hosts docs)
     port: # optional
     # protocol to deploy with - ftp, ftps, or ftps-legacy
